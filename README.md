@@ -104,7 +104,7 @@ The following steps will guide you through the process of committing a change on
 3. In the **Name your file...** field, enter `PROFILE.md`.
 4. In the **Edit new file** area, copy the following content to your file:
    ```
-   Welcome to my GitHub profile!
+   GitHub profilime hoş geldin!
    ```
    <img alt="profile.md file screenshot" src="/images/my-profile-file.png"/>
 5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field below **Commit new file**. Then, if you want to confirm what your screen should look like, expand the dropdown below.
